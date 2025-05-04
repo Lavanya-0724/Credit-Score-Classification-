@@ -17,13 +17,18 @@ This project is focused on classifying individuals based on their credit score u
 
 🛠️ Tools & Libraries
 Python
+
 Pandas & NumPy
+
 Matplotlib & Seaborn (for visualization)
+
 Scikit-learn (for machine learning)
 
 🧠 Learnings
-How to handle real-world credit data
-Importance of preprocessing and feature engineering
+How to handle real-world credit data, 
+
+Importance of preprocessing and feature engineering,
+
 Model selection and evaluation techniques
 
 
